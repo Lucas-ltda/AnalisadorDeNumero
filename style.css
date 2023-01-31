@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap');
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: gray;
+}
+
+h1{
+   text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+select{
+    text-align: center;
+    width: 200px;
+}
+input{
+    border: none;
+    border-radius: 5px;
+
+}
